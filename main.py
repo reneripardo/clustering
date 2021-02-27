@@ -10,7 +10,7 @@ from sklearn.metrics import accuracy_score
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument('-i', '--path_data_set', default='E:\\google_drive\\data_sets\\iris\\iris.data',
+    ap.add_argument('-i', '--path_data_set', default='E:\\data_sets\\iris\\iris.data',
                     help='path data set')
 
     args = vars(ap.parse_args())
