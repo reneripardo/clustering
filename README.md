@@ -1,9 +1,9 @@
 # clustering
-Exemplo do k-médias na classificação de dados.
+Aplicação com kmeans.
 
-Caracteríticas: 
+Informações: 
     
-    Iris Data Set;
+    Iris data set;
     30% dos dados para teste e o restante para treinamento;
     Ambiente PyCharm;
     Resultado da classiicação ilustrado por um gráfico e acurácia.
